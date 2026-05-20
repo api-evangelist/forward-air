@@ -28,6 +28,8 @@ apis:
     description: >-
       The Forward Air API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/forward-air
   - type: Website
     url: https://www.forwardair.com
 maintainers:
