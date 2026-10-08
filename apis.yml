@@ -51,6 +51,12 @@ apis:
     description: >-
       The Forward Air API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/forward-air-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/forward-air-rate-limits.yml
+  - type: FinOps
+    url: finops/forward-air-finops.yml
   - url: https://www.forwardair.com/news
     type: Blog
   - type: DomainSecurity
