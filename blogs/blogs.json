@@ -1,0 +1,14 @@
+{
+  "repo": "forward-air",
+  "feeds": [
+    {
+      "source": "https://www.forwardair.com/news",
+      "feed_url": "https://www.forwardair.com/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
